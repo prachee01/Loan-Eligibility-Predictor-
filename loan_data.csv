@@ -1,0 +1,11 @@
+Age,Income,Education,Credit_Score,Employment_Status,Loan_Status
+25,50000,Graduate,700,Employed,Y
+35,60000,Not Graduate,650,Self-employed,N
+45,80000,Graduate,800,Employed,Y
+29,45000,Graduate,600,Unemployed,N
+62,90000,Not Graduate,750,Employed,Y
+30,70000,Graduate,720,Self-employed,Y
+50,65000,Not Graduate,680,Employed,Y
+28,48000,Not Graduate,640,Unemployed,N
+42,72000,Graduate,710,Self-employed,Y
+36,61000,Graduate,690,Employed,Y
